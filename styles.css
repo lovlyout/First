@@ -1,0 +1,46 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Logo {
+  margin-top: 80px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.info {
+  margin-left: 20px;
+}
+
+p {
+  line-height: 180%;
+}
+
+.menu {
+  text-align: center;
+  font-family: "Hel";
+  color: #58595b;
+  font-size: 18px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Day1 {
+  margin-right: 10px;
+}
+
+.Day2 {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.Day3 {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.Day4 {
+  margin-left: 10px;
+}
